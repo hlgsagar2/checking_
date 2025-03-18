@@ -1,5 +1,4 @@
 Hi Sagar, change it. 
-<<<<<<< HEAD
 Developer B UPDATING 
 then you need to git add . 
 git commit 
@@ -13,8 +12,8 @@ then solve the conflicts
 the git commit -m 
 then push
 
-=======
 
 dhhasjfbjabfbasfbhbfsbajfbjsfb
 this is unga unga bunga bunga developer B
->>>>>>> DB
+chindi maga , how are you me, develper a
+cb86ac7b37438626e3fdfa6ccf4e99080eb7c193
