@@ -1,1 +1,14 @@
 Hi Sagar, change it. 
+Developer B UPDATING 
+then you need to git add . 
+git commit 
+git checkout  main
+git status - this is used for the sake checking whether there is modified omething is existed or not. 
+Then you need to pull,
+git merge DB, 
+git status 
+git add  . 
+then solve the conflicts 
+the git commit -m 
+then push
+
