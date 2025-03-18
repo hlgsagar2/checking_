@@ -17,9 +17,13 @@ then push
 dhhasjfbjabfbasfbhbfsbajfbjsfb
 this is unga unga bunga bunga developer B
 
+<<<<<<< HEAD
 
 
 Hi DEVELOPER A here
 
 
 chindi maga , how are you me, develper a
+=======
+Ths is final checking and update by me develeoper B
+>>>>>>> DB
