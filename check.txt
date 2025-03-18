@@ -1,4 +1,5 @@
 Hi Sagar, change it. 
+
 Developer B UPDATING 
 then you need to git add . 
 git commit 
@@ -15,5 +16,10 @@ then push
 
 dhhasjfbjabfbasfbhbfsbajfbjsfb
 this is unga unga bunga bunga developer B
+
+
+
+Hi DEVELOPER A here
+
+
 chindi maga , how are you me, develper a
-cb86ac7b37438626e3fdfa6ccf4e99080eb7c193
